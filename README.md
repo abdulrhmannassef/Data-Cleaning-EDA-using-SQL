@@ -9,4 +9,4 @@ Steps we did :
 - Perform EDA
 - Visualize it using PowerBI.
 
-![Data_analysis_PowerBI](https://github.com/abdulrhmannassef/Data-Cleaning-EDA-using-SQL/assets/57845488/9d52b534-1fcb-4d97-af44-b936d6be143d)
+![pic06](https://github.com/abdulrhmannassef/Data-Cleaning-EDA-using-SQL/assets/57845488/5fa1f18e-e785-41fc-8694-e6652495c7aa)
